@@ -440,7 +440,7 @@ a:hover {
 
 .about-feature .block {
   color: #fff;
-  width: 0%;
+  width: 33,3%;
   padding: 5%;
   float: left;
 }
@@ -513,7 +513,7 @@ a:hover {
 }
 
 figure {
-  background: #fff;
+  background: #333;
   margin-bottom: 45px;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.04), 0 2px 10px 0 rgba(0, 0, 0, 0.06);
 }
