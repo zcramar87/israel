@@ -582,7 +582,7 @@ figure .overlay:hover a {
 
 figure .buttons {
   position: absolute;
-  top: 45%;
+  top: 35%;
   left: 35%;
 }
 
@@ -597,7 +597,7 @@ figure figcaption h4 {
 }
 
 figure figcaption h4 a {
-  color: #02bdd5;
+  color: #ff0000;
 }
 
 figure figcaption p {
