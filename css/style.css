@@ -377,12 +377,12 @@ a:hover {
 #call-to-action .block {
   position: relative;
   z-index: 99;
-  color: #fff;
+  color: #333;
 }
 
 #call-to-action .block h2 {
   margin-bottom: 15px;
-  color: #fff;
+  color: #333;
 }
 
 #call-to-action .block p {
@@ -395,7 +395,7 @@ a:hover {
 #call-to-action .block .btn-contact {
   background: #fff;
   border: none;
-  color: #02bdd5;
+  color: #333;
   padding: 16px 35px;
   margin-top: 20px;
   font-size: 12px;
