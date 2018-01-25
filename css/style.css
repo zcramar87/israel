@@ -629,9 +629,9 @@ figure figcaption p {
 }
 
 #feature p {
-  line-height: 25px;
+  line-height: 40px;
   font-size: 14px;
-  color: #ff0000;
+  color: #333;
 }
 
 #feature .icon {
