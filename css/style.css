@@ -619,7 +619,7 @@ figure figcaption p {
 }
 
 #feature h3 {
-  color: #ff0000;
+  color: #333;
   font-size: 18px;
   text-transform: uppercase;
   text-align: center;
@@ -631,7 +631,7 @@ figure figcaption p {
 #feature p {
   line-height: 25px;
   font-size: 14px;
-  color: #777777;
+  color: #ff0000;
 }
 
 #feature .icon {
