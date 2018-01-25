@@ -583,7 +583,7 @@ figure .overlay:hover a {
 figure .buttons {
   position: absolute;
   top: 45%;
-  left: 50%;
+  left: 15%;
 }
 
 figure figcaption {
