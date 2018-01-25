@@ -629,7 +629,7 @@ figure figcaption p {
 }
 
 #feature p {
-  line-height: 40px;
+  line-height: 24px;
   font-size: 14px;
   color: #333;
 }
@@ -640,7 +640,7 @@ figure figcaption p {
   background-color: #02bdd5;
   height: 100px;
   text-align: center;
-  width: 100px;
+  width: 90px;
   font-size: 50px;
   line-height: 100px;
   overflow: hidden;
