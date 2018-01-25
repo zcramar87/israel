@@ -440,13 +440,13 @@ a:hover {
 
 .about-feature .block {
   color: #fff;
-  width: 33.33%;
+  width: 0%;
   padding: 5%;
   float: left;
 }
 
 .about-feature .block p {
-  font-weight: 300;
+  font-weight: 400;
 }
 
 .about-feature .about-feature-1 {
