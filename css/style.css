@@ -560,8 +560,8 @@ figure .overlay {
 
 figure .overlay a {
   display: inline-block;
-  color: #333;
-  padding: 10px 23px;
+  color: #fff;
+  padding: 15px 23px;
   line-height: 1;
   border: 1px solid #fff;
   border-radius: 0px;
