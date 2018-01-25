@@ -1,12 +1,10 @@
-@import url(http://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700);
-@import url(http://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
-@import url(http://fonts.googleapis.com/css?family=Glegoo);
+@import url(http://fonts.googleapis.com/css?family=Exo+2)
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: Open sans, Exo;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Roboto Condensed", sans-serif;
+  font-family: Open sans, Exo;
 }
 
 h2 {
@@ -14,7 +12,7 @@ h2 {
 }
 
 p {
-  font-family: "Roboto", sans-serif;
+  font-family: Open sans, Exo;
   line-height: 22px;
   font-size: 16px;
   font-weight: 300;
@@ -342,7 +340,7 @@ a:hover {
   line-height: 27px;
   text-transform: uppercase;
   color: #666;
-  font-family: 'Roboto', sans-serif;
+  font-family: Open sans, Exo;
   margin-top: 25px;
 }
 
@@ -384,7 +382,7 @@ a:hover {
 #call-to-action .block p {
   font-size: 15px;
   font-weight: 300;
-  font-family: 'Roboto', sans-serif;
+  font-family: Open sans, Exo;
   margin-top: 20px;
 }
 
@@ -681,7 +679,7 @@ article {
 }
 
 .blog-content h2 {
-  font-family: 'Roboto', sans-serif;
+  font-family: Open sans, Exo;
 }
 
 .blog-content h2 a {
