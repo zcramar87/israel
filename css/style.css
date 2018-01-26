@@ -310,7 +310,7 @@ a:hover {
   background-attachment: fixed;
   padding: 230px 0;
   color: #fff;
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.7);
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.85);
   position: relative;
 }
 
