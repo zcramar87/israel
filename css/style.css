@@ -484,6 +484,11 @@ a:hover {
   background: #00A6BB;
 }
 
+::selection {
+  color: #fff;
+  background: #17bed2;
+  text-shadow: none;
+
 .progress-box .progress {
   box-shadow: none;
   height: 3px;
