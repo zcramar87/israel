@@ -476,6 +476,7 @@ a:hover {
   transition-duration: 2000ms;
   transition-property: all;
   transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
+}
 	
 .works {
   padding: 80px 0;
