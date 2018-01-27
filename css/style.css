@@ -462,17 +462,20 @@ a:hover {
   background: #00A6BB;
 }
 
-/* ::selection {
+::selection {
   color: #fff;
   background: #17bed2;
   text-shadow: none;
-} */
+} 
  
+/*------------------------------------------------------------------
+    [Progress Bar]
+------------------------------------------------------------------*/
 .progress-box .progress {
   box-shadow: none;
   height: 3px;
 }
- 
+
 .progress-box .progress-bar {
   transition-duration: 2000ms;
   transition-property: all;
