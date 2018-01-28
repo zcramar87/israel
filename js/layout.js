@@ -23,7 +23,7 @@ var Layout = function () {
     // Handle Header
     var handleOnePageHeader = function() {
         // jQuery to collapse the navbar on scroll
-        if ($('.navbar').offset().top > 150) {
+        if ($('.navbar').length && $('.navbar').offset().top > 150) {
             $('.navbar-fixed-top').addClass('top-nav-collapse');
         }
         $(window).scroll(function() {
