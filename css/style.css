@@ -370,7 +370,7 @@ a:hover {
 }
 
 #call-to-action {
-  background: #f8f8f8;
+  background: #fff;
   background-size: cover;
   background-attachment: fixed;
   padding: 80px 0;
@@ -1270,7 +1270,7 @@ article {
 }
 
 #footer {
-  background: #fff;
+  background: #f8f8f8;
   padding: 25px 0;
   color: #555;
 }
