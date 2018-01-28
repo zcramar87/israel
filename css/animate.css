@@ -1193,7 +1193,7 @@ Copyright (c) 2015 Daniel Eden
     transform: translate3d(0, -100%, 0);
     font-size: 20px;
     font-family: Exo;
-    font-weight: normal;
+    font-weight: lighter;
   }
 
   100% {
