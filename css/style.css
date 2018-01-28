@@ -473,7 +473,7 @@ a:hover {
 ------------------------------------------------------------------*/
 .progress-box .progress {
   box-shadow: none;
-  height: 3px;
+  height: 4px;
 }
 
 .progress-box .progress-bar {
