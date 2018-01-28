@@ -1191,6 +1191,9 @@ Copyright (c) 2015 Daniel Eden
     opacity: 0;
     -webkit-transform: translate3d(0, -100%, 0);
     transform: translate3d(0, -100%, 0);
+    font-size: 20px;
+    font-family: Exo;
+    font-weight: normal;
   }
 
   100% {
@@ -1203,7 +1206,7 @@ Copyright (c) 2015 Daniel Eden
 .fadeInDown {
   -webkit-animation-name: fadeInDown;
   animation-name: fadeInDown;
-  font-size: 24px;
+  font-size: 30px;
   text-align: center;
 }
 
