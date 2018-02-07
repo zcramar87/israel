@@ -156,11 +156,11 @@ a:hover {
   color: #0e906a;
 }
 
-/* .global-page-header .block {
+.global-page-header .block {
   position: relative;
-  z-index: 99;
-  text-align: center;
-}*/
+  /*z-index: 99;*/
+  text-align: left;
+}
 
 .works-fit {
   padding: 40px 0;
