@@ -865,9 +865,9 @@ article {
   font-size: 12px;
 }
 
-/* PORTFOLIO PROJECT */
+/* PORTFOLIO PROJECT titulo*/
 
-.project {
+.project-header{
   background-attachment: fixed;
   background-size: cover;
   padding: 75px 0 5px 0;
@@ -878,7 +878,7 @@ article {
   margin-top: 3px;
 }
 
-.project h2 {
+.project-header h2 {
   font-size: 18px;
   font-weight: normal;
   position:left;
@@ -886,18 +886,28 @@ article {
   text-transform: uppercase;
 }
 
-.project hr {
+.project-header hr {
     color: #0e906a;
     height: 1px;
     border: 0;
     box-shadow: inset 0 3px 12px -12px rgba(0, 0, 0, 0.5); 
 }	
 
-
-
-
-
-
+#project-header .icon {
+  text-decoration: none;
+  color: #fff;
+  background-color: #0e906a;
+  height: 5px;
+  text-align: center;
+  width: 5px;
+  font-size: 30px;
+  line-height: 60px;
+  overflow: hidden;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
 
 #clients {
   padding: 30px 0 60px;
