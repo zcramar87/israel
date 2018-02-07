@@ -139,7 +139,7 @@ a:hover {
   color: #333
 }
 
-.global-header h2 {
+.blog-header h2 {
   font-size: 36px;
   font-weight: normal;
   position:left;
@@ -147,7 +147,7 @@ a:hover {
   text-transform: uppercase;
 }
 
-.global-page-header .breadcrumb {
+.blog-header .breadcrumb {
   background: none;
   font-size: 16px;
   padding: 8px  0;
