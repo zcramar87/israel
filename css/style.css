@@ -130,7 +130,7 @@ a:hover {
 }
 
 /*  ENCABEZADO DEL BLOG */
-.global-page-header {
+.blog-header {
   background-attachment: fixed;
   background-size: cover;
   padding: 120px 0 25px 0;
@@ -139,7 +139,7 @@ a:hover {
   color: #fff
 }
 
-.global-page-header h2 {
+.global-header h2 {
   font-size: 18px;
   font-weight: normal;
   position:left;
