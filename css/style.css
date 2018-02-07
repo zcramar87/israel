@@ -491,6 +491,22 @@ a:hover {
   transition-property: all;
   transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
 }
+
+.skills h2 { style=";  
+  color: #333;
+  padding: 15px
+  font-size: 18px;
+  text-align: center;
+  margin-bottom: 0px;
+  font-weight: normal;
+}
+
+
+
+
+
+
+
 /* SECCION EXPERIENCE	 */
 .works {
   padding: 80px 0;
