@@ -873,7 +873,8 @@ article {
   padding: 75px 0 5px 0;
   position: relative;
   background: #fff;
-  color: #333
+  color: #333;
+  margin-left: 50px;
 }
 
 .project h2 {
