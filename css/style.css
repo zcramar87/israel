@@ -693,6 +693,7 @@ figure figcaption p {
   margin: 0px 0px 15px;
   font-weight: 400;
 }
+
 #feature p {
   line-height: 24px;
   font-size: 14px;
@@ -719,6 +720,7 @@ figure figcaption p {
 
 #feature .row {
   margin-top: 30px;
+  margin-left: -90px;
 }
 
 .wrapper_404 h1 {
